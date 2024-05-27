@@ -49,5 +49,5 @@ There are a few bits that I need to figure out on my own to make this a bit nice
 
 1. Input validation: When unexpected inputs are provided, the script exits with no feedback to the user. 
 2. Progress bar: There is no visual aid to illustrate how far along the saving process I am. This will be added
-3. JSON usage: Since this is a not a critically data-sensitive script, I can store these values in another method to improve usability. Like a madlad, it currently throws a .json file into my system32 folder to help store my savings values. 
+3. JSON usage: Since this is a not a critical or data-sensitive script, the current savings/goal value storage method is appropriate. However, I can store these values in another method to improve usability. Like a madlad, it currently throws a .json file into my system32 folder to help store my savings values. 
 4. Readability: I can employ the use of colours to help highlight certain features.
