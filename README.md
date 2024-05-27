@@ -4,7 +4,7 @@ While I may have a strategy for saving for my future and retirement, I haven't g
 
 ## Overview
 
-This repo will consist of a very simple Python script that will be stored locally on my Windows machine which will run on startup which will remind me of my savings target and how far I am off the target. I will employ the use of a seperate .bat file that will run on startup with the use of Windows Task Scheduler
+This repo will consist of a very simple Python script that will be stored locally on my Windows machine which will run on startup which will remind me of my savings target and how far I am off the target. I will employ the use of a seperate .bat file that will run on startup with the use of Windows Task Scheduler.
 
 This script works by creating seperate functions for each component of this script's utility. These components include:
 
